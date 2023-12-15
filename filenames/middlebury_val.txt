@@ -1,0 +1,3 @@
+ArtL/im0.png ArtL/im1.png ArtL/disp0GT.pfm
+Teddy/im0.png Teddy/im1.png Teddy/disp0GT.pfm
+Vintage/im0.png Vintage/im1.png Vintage/disp0GT.pfm

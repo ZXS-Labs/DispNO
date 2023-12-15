@@ -1,0 +1,6 @@
+LICENSE
+README.md
+deform_conv.egg-info/PKG-INFO
+deform_conv.egg-info/SOURCES.txt
+deform_conv.egg-info/dependency_links.txt
+deform_conv.egg-info/top_level.txt
